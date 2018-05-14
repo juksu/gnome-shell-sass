@@ -1,0 +1,7 @@
+// run with $sass gnome-shell.scss gnome-shell.css
+$variant: 'dark';
+
+@import 'drawing';
+@import 'high-contrast-colors';
+// @import 'colors';
+@import 'common';
